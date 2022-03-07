@@ -1,0 +1,10 @@
+﻿Contrato de Licensa de código "aberto" Car The Game v0.9.50 alpha
+=================================================
+1- O Usuario não está autorizado a utilizar os trechos do código-fonte em qualquer aplicação, independentemente de qual seja o fim;
+2- Os código somente devem ser utilizados como base para estudos;
+3- Não obter este titulo ou disponibilizá-lo de forma suspeita, procure sempre baixar a versão oficial disponibilizada pela NonaCept.
+
+
+=================================================
+Nonaginta Septem Softwares 2014-2020
+Car The Game v0.9.50 alpha

@@ -1,0 +1,304 @@
+﻿Obrigado por instalar o Car The Game v0.9.51 alpha em seu computador...
+Espero que se divirta...
+MODO MULTIPLAYER EM PLANEJAMENTO!
+MAIS VEÍCULOS EM PLANEJAMENTO!
+VOCÊ PODE VISUALIZAR MELHOR ESTE ARQUIVO EXECUTANDO O JOGO ATRAVÉS DA LINHA DE COMANDO USANDO O PARÂMETRO -changelog
+
+Abaixo segue o log de implementação:
+=================================================
+*0.9.51 alpha:	(17/12/2020 13:45)
+	+OFICIALMENTE REBATIZADA: DHORGAS SOFTWARE -> Nonaginta Septem Softwares (NonaCept, ou NCept para os mais íntimos);
+	+Corrigido bug da necessidade de reiniciar o jogo para disponibilizar "Continuar Jogo";
+	+Corrigido imagem de fundo piscando na tela de loading após "Continuar Jogo";
+	+Corrigido tamanho dos textos no menu;
+	+Corrigido alinhamento dos textos no menu de opções;
+	+Corrigido crash do Jogo quando tentava carregar save com itens de ajuda ativos;
+	+Corrigido bug das teclas parando de responder em alguns casos quando rodando em Linux;
+	+Primeira implementação da "NonaCept Game Library" (responsável por gerar alguns elementos da interface);
+	+Novo sistema de áudio, agora você pode alterar o volume do jogo;
+	+Pode escolher quais músicas tocaram durante o jogo;
+	+Novo "Splash Screen";
+	+Atualizada biblioteca de terceiros "xStream" (1.4.10->1.4.11.1);
+	+Novas Animações;
+	+Mudanças na forma como o jogo trabalha com alguns arquivos de idioma;
+
+*0.9.50 alpha:  (07/03/2020 00:15)
+	+Corrigido bug que impedia de rodar nas versões mais recentes do Java;
+	+Corrigido bug que impedia de alternar para tela cheia no Windows 7;
+	+Corrigido bug do jogo travando após mudança de Resolução;
+	+Corrigido bug da área de jogo fora da tela;
+	+Corrigido bug de soltar nitro mesmo parado;
+	+Corrigido bug das informações do "DHORGAS' TrackX" invisiveis;
+	+Corrigido bug do tempo da invisibilidade ao pegar item enquanto invisível;
+	+Corrigido bug do Tutorial que voltava ao menu mesmo sendo o tutorial inicial;
+	+Polimento: melhora no desempenho do game;
+	+Correções nas Fontes e alinhamentos do Texto;
+	+[GameJolt]Removida necessidade da configração manual do "fontes.zip";
+	+Mudanças nas opções de resolução;
+	+Mudanças no carregamento de Mapas, mapas feitos para versões anteriores com toda certeza não funcionaram;
+	+Novo "Level 1", outros níveis temporariamente desabilitados, por estarem sendo refeitos;
+	+Animação de abertura revisada;
+	+Alinhamento de textos automatizado, facilitará a criação das possíveis traduções;
+	+Alterado local dos arquivos de configuração para sistemas baseados em Linux;
+	+Adicionado animação ao logo do Menu Principal;
+	+Itens "cenários" adicionados;
+
+*0.9.4.9 alpha:    (13/08/2019 14:30)
+	+Mudanças em texturas;
+	+Item "caixote";
+	+Item "carro destruido" (ele explode);
+	+Corrigido Bug do jogo travando algumas vezes durante carregamento de save;
+	+Opção "Carregar jogo" indisponível quando não há save adequado para tal;
+	+Adicionado WASD como teclas de movimento secundárias;
+	+Nova animação "DHORGAS SOFTWARE";
+	+Corrigido bug do carro em lugar diferente ao carregar save do modo "sem fim";
+	+Alterações em diversas fontes;
+	+Tutorial de jogo;
+	+Você pode pular a "Tela de apresentação" dos níveis;
+	+Removido idioma Russo;
+	+Corrigido bugs com os requisitos configurados nos arquivos dos níveis;
+	+Tela de Opções "embutida" no jogo (não há necessidade de reiniciar);
+
+*0.9.4.8 alpha:    (19/05/2019 - 02/06/2019 18:15)
+	+Mudanças no gerenciamento de memória usada pelo Jogo (ainda em teste);
+	+Mudanças na movimentação quando no modo de jogo "sem fim";
+	+Adicionado rastro ao "nitrar" no modo de jogo "sem fim";
+	+Mudanças na movimentação dos inimigos modo "sem fim";
+	+Definida área de jogo em 4:3, mesmo em monitores com outros formatos (temp);
+
+*0.9.4.7 alpha:	     (27/01/2019 20:00)
+	+Corrigidos pequenos bugs referentes ao carregamento das opções;
+	+Adicionado rastro ao carro quando o nitro é ativado;
+	+Corrigido bug de soltar nitro mesmo parado;
+	+Duração e Recarga de Nitro sofreram mudanças;
+	+Nivel 1 facilitado (dê sua opnião);
+
+*0.9.4.6 alpha:	     (22/12/2018 19:41)
+	+Anti-Aliasing (Deixa o jogo visualmente melhor);
+	+Uso de tela cheia nativo do sistema (Quando suportado);
+	+Jogo pausa ao perder o foco;
+	+Pequenas mudanças gráficas;
+	+Nível 1 facilitado (dê sua opnião);
+
+*0.9.4.5 alpha:	     (02/12/2018 01:35)
+	+Nova interface gráfica (abre possibilidades para o futuro)**;
+	+Item "Portal" adicionado;
+	+"Linha de Chegada" adicionada;
+	+Pequenas melhorias nos bugs com as paredes do modo de jogo "sem fim";
+
+obs.:**Programas de gravação de jogos agora detectam o jogo com mais facilidade :D
+
+*0.9.4.4 alpha:	     (21/10/2018 14:15)
+	+Nova maneira de desenho do "hud" (não faz diferença pra jogadores);
+	+Pequenas alterações nos danos sofridos;
+	+Argumento "-ver" ("-v") implementado (detalhes sobre a versão);
+	+Argumento "-changelog" implementado (visualiza este arquivo);
+	+Novo console de Depuração (argumento "-d");
+
+*0.9.4.3 alpha:	     (17/10/2018 21:02)
+	+Opção para executar a 90 FPS;
+	+Jogo mais rápido (a moda antiga);
+	+Correção de pequenos detalhes ao carregar save não suportado;
+	+Corrigido o bug do "Dhorgas' TrackX" errado no menu;
+	+Alterações na tela dos Créditos;
+	+Alterações no "timing" do menu;
+	+Outras pequenas mudanças gráficas "in-game";
+	+Outras pequenas mudanças a respeito do menu;
+	+Melhoria em espaço de armazenamento;
+
+*0.9.4.2 alpha:	     (16/10/2018 23:11)
+	+Nova trilha sonora no Menu (A trilha sonora do jogo todo será revista);
+	+Animação no "Dhorgas' TrackX";
+	+"Dhorgas' TrackX" adicionado ao menu;
+
+*0.9.4.1 alpha:	     (10/10/2018 20:02)
+	+Correção de pequenos bugs com os idiomas;
+	+Pequenas correções no Argumento "-noanim";
+	+
+
+*0.9.4 alpha:	     (10/10/2018 18:31)
+	+Suporte a Sistemas Linux (havia um bug devido a forma de utilização dos arquivos que só rodava em Windows);
+	+Salvamento de Jogo disponível;
+	+Carregamento de Jogo disponível;
+
+*0.9.3 alpha:	     (25/08/2018 19:15)
+	+Novo modo de Jogo (poderão conferir no ainda experimental nível 2);
+	+Tela de "Apresentação" dos níveis;
+	+Nova Textura para "Paredes";
+
+*0.9.1 alpha:	     (22/07/2018 14:12)
+	+Corrigido Bug das Opções ao atualizar o Jogo;
+	+Corrigido Bug das bordas invisiveis;
+	+Corrigido Bug do "Nitro" ativando sozinho;
+	+Botão "Restaurar Padrão" no menu de Opções;
+
+*0.9.0 alpha:	    (19/07/2018 13:04)
+	+Menus Reformulados;
+	+Algumas Correções em Alinhamentos de Textos (Alguns bugs ainda podem existir);
+	+Idioma Russo oficialmente adicionado (Bugs de alinhamento);
+	+Correções nas dimensões das texturas de acordo com Resolução;
+	+Pequenas Animações;
+	+Correção do bug da Tela Preta (fechar menu de opções sem salvar);
+	+Nova biblioteca para carregamento dos idiomas;
+
+*0.8.2.9 alpha:	     (26/05/2018 17:00)
+	+Correções na "Invisibilidade";
+	+Idioma Espanhol oficialmente adicionado;
+
+*0.8.2.2 alpha:	     (26/05/2018 14:11)
+	+Adição novo Item "Invisibilidade";
+	+Adição de "itens" para "mapa" (ver READMELVL.txt na pasta arquivos);
+	+Itens são exibidos com maior frequência;
+
+*0.8.1 alpha:        (21/01/2018 21:59)
+	+Adição da opção de idiomas;
+	+Correção de pequenos bugs;
+	+Removido argumento "-o" para acesso direto ao menu de opções (incompativel com multilinguas);
+	+Correção de alinhamento dos elementos do "Menu" e dos "Créditos";
+	+Pequena melhoria no espaço usado em disco;
+
+*0.7.3 alpha:        (28/05/2017 15:45)
+	+Adição da Opção FPS;
+	+Correção de pequenos bugs na tela "Opções";
+
+*0.7.1 alpha:        (19/04/2017 12:22)
+	+Correções nos "inimigos" referente as "paredes";
+	+Pequenas correções gráficas; 
+
+*0.7.0 alpha (Atualização Nitro):        (19/04/2017 10:53)
+	+Adição de mais "itens" para "mapa" (ver READMELVL.txt na pasta arquivos);
+	+"Nitro" deixa de ser automatico, pode ser usado quando quiser (tecla SHIFT);
+	+Pequenas Correções nas animações;
+	+Adcionado suporte ao argumento "-noanim";
+	+Outras pequenas correções na interface;
+	+Descontinuado "Game Launcher";
+
+*0.6.9.8 alpha:        (18/04/2017 01:36)
+	+Correções nos créditos do Jogo;
+	+Adição do suporte a "mapas" (ainda em desenvolvimento) ver pasta /arquivos/readmeLVL.txt
+	+Remoção da "propaganda" de canais;
+	+Novo "Game Launcher";
+	+Arte do Album para Trilha Sonora;
+	+Remodelada Animação de "carregamento";
+
+*0.6.9.6 alpha:        (11/04/2017 21:19)
+	+Mudanças na trilha sonora;
+
+*0.6.9.5 alpha:        (18/09/2016 15:38)
+	+Adicionado mudar música "in-game";
+	+Ajustado temporizador dos créditos (em teste);
+	+Animação Closing;
+	+Corrigido jogo não fecha junto as opções;
+
+*0.6.9.2 alpha:
+	+Corrigido bug do "sumiço do menu principal";
+	+Corrigido aleatório das musicas;
+	
+
+*0.6.9.1 alpha:        (20/11/2015 22:55)
+	+Correção do bug "aviso de resolução";
+
+*0.6.9 alpha:        (20/11/2015 22:44)
+	+Correções no uso excessivo de memória RAM;
+	+Alterações na tela de "loading" do Jogo;
+
+*0.6.6.6 alpha:        (20/06/2015 21:02)
+	+Correções em erros de arquivos faltando nas configurações do jogo;
+
+*0.6.6.5 alpha:        (20/06/2015 20:59)
+	+Suporte a Tela Cheia ("Modo janela" das opções);
+	+Mudanças ao obter informações sobre música (Sistema anti-cagada);
+	+Mudanças no script de loading do jogo (Sistema anti-cagada);
+
+*0.6.6.2.7 alpha:        (01/04/2015 21:38)
+	+Melhorias ao obter informações sobre música;
+	+Correções gráficas em alguns elementos;
+	+Barra de vida pisca de acordo com ação ocorrida: dano ou recuperrar vida;
+	+Logo da DHORGAS SOFTWARE presente nas informações sobre música;
+
+*0.6.6.2.2 alpha:        (18/03/2015 21:24)
+	+Mudanças gráficas em alguns elementos da interface;
+	+Nova Animação da DHORGAS SOFTWARE;
+
+*0.6.6.2.1 alpha:        (04/03/2015 23:32)
+	+Corrigido bug jogo não funciona em outros usuários do sistema;
+	+Mudanças nas animações iniciais;
+
+*0.6.6.2 alpha:        (04/03/2015 21:01)
+	+Adicionado interface para configuração do jogo;
+	+Adicionado "opções" no menu principal;
+	+Alguns detalhes do menu principal reformulados;
+	+Alguns arquivos agora vão para a pasta "Documentos" devido a permissões do Sistema;
+
+*0.6.6 alpha (Mega atualização):        (04/03/2015 00:08)
+	+Reformulação do loading inicial (Diminuirá chance de travamentos durante o jogo);
+	+Suporte a alteração de resolução (somente disponivel através do arquivo de configurações);
+	+Varias correções nas animações iniciais;
+	+Removidos arquivos não utilizados do instalador;
+
+*0.6.5.1.1 alpha:        (01/03/2015 15:14)
+	+Alteração de resolução (Em desenvolvimento);
+	+Corrigido bug Informações sobre música não aparecem na tela de jogo;
+	+Corrigido bug do menu após reiniciar a animação;
+	+
+
+*0.6.5.1 alpha:        (28/02/2015 20:55)
+	+Se ficar parado no menu principal, animação reinicia;
+	+Nova tela de loading no ínicio do jogo;
+	+Alteração de resolução (em desenvolvimento);
+	+Corrigido bug Informações sobre música ficam pra sempre na tela de jogo;
+	+Mudanças na trilha sonora;
+
+*0.6.5.0.1 alpha:        (31/01/2015 18:56)
+	+Correção de bugs na codificação de caracteres;
+
+*0.6.5 alpha (Atualização Tuts-Tuts):        (29/01/2015 12:51)
+	+Itens de ajuda spawnam durante o jogo;
+
+*0.6.4.3.4 alpha:        (28/01/2015 17:45)
+	+Não indica mais o "dano" sofrido e sim a "vida" restante;
+	+Barra indicadora de vida remodelada;
+	+Bugs do carro se movendo sozinho após gameover removido;
+
+*0.6.4.3.3 alpha:        (28/01/2015 13:23)
+	+Nova tela durante inicialização do jogo;
+	+Possibilidade de alterar músicas;
+	+Novo sistema indicador de danos;
+
+*0.6.4.3 alpha:        (23/01/2015 12:50)
+	+Novo sistema de musicas in-game;
+	+Nova imagem durante instalação;
+
+*0.6.4.2.1 alpha:        (07/01/2015 14:01)
+	+Correções na interface do Menu de Pausa;
+	+Mudanças nos niveis de jogo;
+
+*0.6.4.2 alpha:        (07/01/2015 13:15)
+	+Nova interface reprodutora de músicas (ainda em teste);
+	+Removido botão "mudo";
+
+*0.6.4.1 alpha:        (07/01/2015 12:22)
+	+Correções de bug na interface do menu;
+
+*0.6.4 alpha (Atualização Fuck Yeahh):        (07/01/2015 11:55)
+	+Dificuldade controlada por niveis (tanto você quanto os inimigos ganham atibutos com o passar do tempo);
+	+Interface do menu renovada;
+	+Créditos do jogo disponiveis para vizualização;
+	+Removidas bordas da janela durante o jogo;
+	+Danos dinamicos ao carro (danos variam de acordo com a profundidade da colisão);
+
+*0.6.3.1 alpha:        (06/01/2015 16:39)
+	+Mudanças na interface reprodutora de audio (deixou o jogo ocupando menos espaço em seu Disco Rigído);
+
+*0.6.2 alpha (Atualização desafiadora):        (02/01/2015 00:45)
+	+Inimigos "spawnam" com o passar do tempo;
+	+Inimigos danificam seu carro;
+	+Game Over implementado;
+
+*0.6 alpha:        (20/12/2014)
+	+Bugs referentes a movimentação removidos;
+	+Seu carro pode andar na diagonal;
+=================================================
+Nonaginta Septem Softwares 2014-2020
+Car The Game v0.9.51 alpha;
+NITRO!!! ;D
