@@ -1,0 +1,147 @@
+<idiomaArq>
+	<lingua>Español</lingua>
+	<id>2</id>
+	<tutoFile>es0</tutoFile>
+	<credFile>es1</credFile>
+	<carregando>
+		<texto>CARGANDO...</texto>
+		<posX>57</posX>
+	</carregando>
+	<salvarOpSpc>
+		<texto>Presione ESPACIO para guardar</texto>
+	</salvarOpSpc>
+	<iniciar>
+		<texto>Comenzar</texto>
+		<posX>42</posX>
+	</iniciar>
+	<creditos>
+		<texto>Créditos</texto>
+		<posX>108</posX>
+	</creditos>
+	<opcoes>
+		<texto>Opciones</texto>
+		<posX>37</posX>
+	</opcoes>
+	<sair>
+		<texto>Salir</texto>
+		<posX>129</posX>
+	</sair>
+	<nivel>
+		<texto>Nivel: </texto>
+		<posX>244</posX>
+	</nivel>
+	<inimigos>
+		<texto>Enemigos: </texto>
+		<posX>150</posX>
+	</inimigos>
+	<pause>
+		<texto>Pausa</texto>
+		<posX>43</posX>
+	</pause>
+	<continuar>
+		<texto>Continuar</texto>
+		<posX>54</posX>
+	</continuar>
+	<voltarMenu>
+		<texto>Volver al Menú</texto>
+		<posX>83</posX>
+	</voltarMenu>
+	<idioma>
+		<texto>IDIOMA</texto>
+		<posX>20</posX>
+	</idioma>
+	<danoTotal>
+		<texto>¡Su coche ha sido totalmente dañado!</texto>
+		<posX>130</posX>
+	</danoTotal>
+	<atraveParede>
+		<texto>No sé cómo casi lo consiguió, pero usted intentó atravesar la pared con su coche!</texto>
+		<posX>275</posX>
+	</atraveParede>
+	<nivel2>
+		<texto>        Nivel: </texto>
+		<posX>83</posX>
+	</nivel2>
+	<novoJogo>
+		<texto>Nuevo Juego</texto>
+		<posX>52</posX>
+	</novoJogo>
+	<loadJogo>
+		<texto>Cargar Juego</texto>
+		<posX>54</posX>
+	</loadJogo>
+	<nao>
+		<texto>No</texto>
+		<posX>12</posX>
+	</nao>
+	<sim>
+		<texto>Si</texto>
+		<posX>10</posX>
+	</sim>
+	<trilhaSom>
+		<texto>NCEPT's TrackX</texto>
+		<posX>41</posX>
+	</trilhaSom>
+	<salvarJogo>
+		<texto>Guardar Juego</texto>
+		<posX>78</posX>
+	</salvarJogo>
+	<jogoOp>
+		<texto>Opciones de Juego</texto>
+		<posX>97</posX>
+	</jogoOp>
+	<ja>
+		<texto>Go!</texto>
+	</ja>
+	<Save>
+		<TextLang>
+			<texto>Guardando...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Guardado!</texto>
+		</TextLang>
+	</Save>
+	<lvlApresenta>
+		<TextLang>
+			<texto>Inicio de Juego...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Continuando Juego...</texto>
+		</TextLang>
+	</lvlApresenta>
+	<ativado>
+		<TextLang>
+			<texto>DESABILITADO</texto>
+		</TextLang>
+		<TextLang>
+			<texto>EN</texto>
+		</TextLang>
+	</ativado>
+	<opTela>
+		<TextLang>
+			<texto>PANTALLA Y GRÁFICOS</texto>
+			<posX>65</posX>
+		</TextLang>
+		<TextLang>
+			<texto>RESOLUCION</texto>
+		</TextLang>
+		<TextLang>
+			<texto>PANTALLA COMPLETA</texto>
+		</TextLang>
+		<TextLang>
+			<texto>FPS</texto>
+		</TextLang>
+		<TextLang>
+			<texto>ANTIALIASING</texto>
+		</TextLang>
+		<TextLang>
+			<texto>OPCIONES</texto>
+		</TextLang>
+	</opTela>
+	<volume>
+		<texto>VOLUMEN</texto>
+	</volume>
+	<warningMusica>
+		<texto>LA MÚSICA DEL MENÚ NO SE PUEDE CAMBIAR</texto>
+	</warningMusica>
+</idiomaArq>

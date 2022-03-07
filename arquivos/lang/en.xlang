@@ -1,0 +1,147 @@
+<idiomaArq>
+	<lingua>English</lingua>
+	<id>1</id>
+	<tutoFile>en0</tutoFile>
+	<credFile>en1</credFile>
+	<carregando>
+		<texto>LOADING...</texto>
+		<posX>57</posX>
+	</carregando>
+	<salvarOpSpc>
+		<texto>Press SPACE to save</texto>
+	</salvarOpSpc>
+	<iniciar>
+		<texto>Start</texto>
+		<posX>20</posX>
+	</iniciar>
+	<creditos>
+		<texto>Credits</texto>
+		<posX>105</posX>
+	</creditos>
+	<opcoes>
+		<texto>Options</texto>
+		<posX>43</posX>
+	</opcoes>
+	<sair>
+		<texto>Quit</texto>
+		<posX>132</posX>
+	</sair>
+	<nivel>
+		<texto>Level: </texto>
+		<posX>244</posX>
+	</nivel>
+	<inimigos>
+		<texto>Enemies: </texto>
+		<posX>150</posX>
+	</inimigos>
+	<pause>
+		<texto>Pause</texto>
+		<posX>43</posX>
+	</pause>
+	<continuar>
+		<texto>Continue</texto>
+		<posX>48</posX>
+	</continuar>
+	<voltarMenu>
+		<texto>Back to Menu</texto>
+		<posX>73</posX>
+	</voltarMenu>
+	<idioma>
+		<texto>LANGUAGE</texto>
+		<posX>27</posX>
+	</idioma>
+	<danoTotal>
+		<texto>Your car was totally damaged!</texto>
+		<posX>119</posX>
+	</danoTotal>
+	<atraveParede>
+		<texto>I don't know how almost got, but you tried do cross the wall!</texto>
+		<posX>275</posX>
+	</atraveParede>
+	<nivel2>
+		<texto>        Level: </texto>
+		<posX>81</posX>
+	</nivel2>
+	<novoJogo>
+		<texto>New Game</texto>
+		<posX>38</posX>
+	</novoJogo>
+	<loadJogo>
+		<texto>Load Game</texto>
+		<posX>41</posX>
+	</loadJogo>
+	<nao>
+		<texto>No</texto>
+		<posX>12</posX>
+	</nao>
+	<sim>
+		<texto>Yes</texto>
+		<posX>15</posX>
+	</sim>
+	<trilhaSom>
+		<texto>NCEPT's TrackX</texto>
+		<posX>41</posX>
+	</trilhaSom>
+	<salvarJogo>
+		<texto>Save Game</texto>
+		<posX>57</posX>
+	</salvarJogo>
+	<jogoOp>
+		<texto>Game Options</texto>
+		<posX>75</posX>
+	</jogoOp>
+	<ja>
+		<texto>Go!</texto>
+	</ja>
+	<Save>
+		<TextLang>
+			<texto>Saving...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Saved!</texto>
+		</TextLang>
+	</Save>
+	<lvlApresenta>
+		<TextLang>
+			<texto>Starting Game...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Continuing Game...</texto>
+		</TextLang>
+	</lvlApresenta>
+	<ativado>
+		<TextLang>
+			<texto>OFF</texto>
+		</TextLang>
+		<TextLang>
+			<texto>ON</texto>
+		</TextLang>
+	</ativado>
+	<opTela>
+		<TextLang>
+			<texto>SCREEN AND GRAPHICS</texto>
+			<posX>65</posX>
+		</TextLang>
+		<TextLang>
+			<texto>RESOLUTION</texto>
+		</TextLang>
+		<TextLang>
+			<texto>FULL SCREEN</texto>
+		</TextLang>
+		<TextLang>
+			<texto>FPS</texto>
+		</TextLang>
+		<TextLang>
+			<texto>ANTIALIASING</texto>
+		</TextLang>
+		<TextLang>
+			<texto>OPTIONS</texto>
+		</TextLang>
+	</opTela>
+	<volume>
+		<texto>VOLUME</texto>
+	</volume>
+	<warningMusica>
+		<texto>MENU MUSIC CANNOT BE CHANGED</texto>
+	</warningMusica>
+</idiomaArq>

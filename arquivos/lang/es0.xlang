@@ -1,0 +1,141 @@
+<tutoIdiomaArq>
+    <welcome>
+        <texto>TUTORIAL</texto>
+        <posX>31</posX>
+    </welcome>
+    <sair>
+        <texto>Presione "S" 2 veces para ir directamente al juego</texto>
+    </sair>
+    <voce>
+        <TextLang>
+            <texto>Este eres tú, huye de tus enemigos tanto como puedas</texto>
+            <posX>265</posX>
+        </TextLang>
+    </voce>
+    <inimigo>
+        <TextLang>
+            <texto>Este es posiblemente su peor enemigo, dañarán su automóvil si se acercan demasiado</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>PRECAUCIÓN: se impulsan para saltar sobre las cosas</texto>
+            <posX>265</posX>
+        </TextLang>
+    </inimigo>
+    <parede>
+        <TextLang>
+            <texto>Su automóvil es demasiado débil para cruzar, pero por razones místicas no se dañará incluso si los</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>golpea a alta velocidad</texto>
+            <posX>255</posX>
+        </TextLang>
+    </parede>
+    <portal>
+        <TextLang>
+            <texto>Estos son los portales, puede usarlos para llevarlos a otra parte del mapa, pero solo una vez que</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>cada portal tiene una entrada y una salida, tiene igual color y rotación</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>Este símbolo representa el portal de salida, no puede ingresar aquí</texto>
+            <posX>255</posX>
+        </TextLang>
+    </portal>
+    <vida>
+        <TextLang>
+            <texto>Este artículo regenerará el 17.5% de la salud total de su vehículo</texto>
+            <posX>265</posX>
+        </TextLang>
+    </vida>
+    <nitro>
+        <TextLang>
+            <texto>Este artículo llena el 13.5% de la botella de nitro</texto>
+            <posX>265</posX>
+        </TextLang>
+    </nitro>
+    <sNitro>
+        <TextLang>
+            <texto>Este artículo llena el 35% de la botella de nitro</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>ADVERTENCIA: la botella de nitro es capaz de producir nitro automáticamente, pero ciertamente toma</texto>
+            <posX>265</posX>
+        </TextLang>
+    </sNitro>
+    <invisibilidade>
+        <TextLang>
+            <texto>Con este elemento eres invisible durante casi 3 segundos, tus enemigos no te verán</texto>
+            <posX>265</posX>
+        </TextLang>
+    </invisibilidade>
+    <caixote>
+        <TextLang>
+            <texto>Usted y sus enemigos pueden romper las cajas, pero perderá velocidad y sufrirá daños.</texto>
+            <posX>265</posX>
+        </TextLang>
+    </caixote>
+    <destruidos>
+        <TextLang>
+            <texto>Estos autos no pudieron escapar y fueron destruidos, golpearlos te hará daño y eventualmente</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>podrían explotar. No quiero estar cerca cuando esto sucede.</texto>
+            <posX>265</posX>
+        </TextLang>
+    </destruidos>
+    <controlsWASD>
+        <TextLang>
+            <texto>Puede controlar el automóvil con las teclas de flecha o las teclas WASD.</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsWASD>
+    <controlsShift>
+        <TextLang>
+            <texto>Presione SHIFT para usar Nitro, le dará un buen impulso.</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsShift>
+    <controlsT>
+        <TextLang>
+            <texto>Presione para cambiar la música durante el juego</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsT>
+	<chegada>
+		<TextLang>
+			<texto>Este es tu destino en cada nivel, habrá al menos un área de esto, sin embargo, para liberarlo debes</texto>
+			<posX>255</posX>
+		</TextLang>
+		<TextLang>
+			<texto>cumplir un objetivo o simplemente encontrarlo (modo sin fin)</texto>
+			<posX>255</posX>
+		</TextLang>
+	</chegada>
+	<basico>
+		<texto>BÁSICO</texto>
+		<posX>20</posX>
+	</basico>
+	<controles>
+		<texto>CONTROLOS</texto>
+		<posX>29</posX>
+	</controles>
+	<itensAjuda>
+		<texto>ARTÍCULOS DE AYUDA</texto>
+		<posX>54</posX>
+	</itensAjuda>
+	<estruturas>
+		<texto>ESTRUCTURAS</texto>
+		<posX>36</posX>
+	</estruturas>
+	<objetos>
+		<texto>OBJETOS</texto>
+		<posX>22</posX>
+	</objetos>
+</tutoIdiomaArq>

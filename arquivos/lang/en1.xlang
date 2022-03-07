@@ -1,0 +1,47 @@
+<credArq>
+  <blocos>
+    <block>
+      <titulo>PROGRAMING TEAM</titulo>
+      <nomes>
+        <string>Douglas Rocha</string>
+      </nomes>
+    </block>
+    <block>
+      <titulo>TESTS TEAM</titulo>
+      <nomes>
+        <string>Douglas Rocha</string>
+        <string>Wesley Trindade</string>
+        <string>Henrique Campos</string>
+      </nomes>
+    </block>
+    <block>
+        <titulo>DESIGN TEAM</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>TRANSLATE TEAM</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>IDEALISATION TEAM</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+            <string>Wesley Trindade</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>SPECIAL THANKS</titulo>
+        <nomes>
+            <string>Arnaldo Assis</string>
+            <string>GOGA</string>
+            <string>Pandolfinha</string>
+            <string>NunesS</string>
+            <string>Glayson Junior</string>
+        </nomes>
+    </block>
+  </blocos>
+</credArq>

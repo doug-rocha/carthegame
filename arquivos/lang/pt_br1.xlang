@@ -1,0 +1,47 @@
+<credArq>
+  <blocos>
+    <block>
+      <titulo>EQUIPE DE PROGRAMAÇÃO</titulo>
+      <nomes>
+        <string>Douglas Rocha</string>
+      </nomes>
+    </block>
+    <block>
+      <titulo>EQUIPE DE TESTES</titulo>
+      <nomes>
+        <string>Douglas Rocha</string>
+        <string>Wesley Trindade</string>
+        <string>Henrique Campos</string>
+      </nomes>
+    </block>
+    <block>
+        <titulo>EQUIPE DE DESIGN</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>EQUIPE DE TRADUÇÃO</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>EQUIPE DE IDEALIZAÇÃO</titulo>
+        <nomes>
+            <string>Douglas Rocha</string>
+            <string>Wesley Trindade</string>
+        </nomes>
+    </block>
+    <block>
+        <titulo>AGRADECIMENTOS ESPECIAIS</titulo>
+        <nomes>
+            <string>Arnaldo Assis</string>
+            <string>GOGA</string>
+            <string>Pandolfinha</string>
+            <string>NunesS</string>
+            <string>Glayson Junior</string>
+        </nomes>
+    </block>
+  </blocos>
+</credArq>

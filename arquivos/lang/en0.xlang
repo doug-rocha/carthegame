@@ -1,0 +1,141 @@
+<tutoIdiomaArq>
+    <welcome>
+        <texto>TUTORIAL</texto>
+        <posX>31</posX>
+    </welcome>
+    <sair>
+        <texto>Press "S" 2 times to get straight to the game</texto>
+    </sair>
+    <voce>
+        <TextLang>
+            <texto>This is You, run away from your enemies as long as you can</texto>
+            <posX>265</posX>
+        </TextLang>
+    </voce>
+    <inimigo>
+        <TextLang>
+            <texto>This is possibly their worst enemy, they will damage your car if they get too close</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>CAUTION: They boost themselves to jump over things</texto>
+            <posX>265</posX>
+        </TextLang>
+    </inimigo>
+    <parede>
+        <TextLang>
+            <texto>Your car is too weak to cross, but for mystical reasons you won't be damaged even if you hit them</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>at high speed</texto>
+            <posX>255</posX>
+        </TextLang>
+    </parede>
+    <portal>
+        <TextLang>
+            <texto>These are the portals, you can use them to be taken elsewhere on the map, but only once</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>Each portal has an input and an output, each pair is represented by an equal color and rotation</texto>
+            <posX>255</posX>
+        </TextLang>
+        <TextLang>
+            <texto>This symbol represents the exit portal, you cannot enter here</texto>
+            <posX>255</posX>
+        </TextLang>
+    </portal>
+    <vida>
+        <TextLang>
+            <texto>This item will regenerate 17.5% of your vehicle's HP</texto>
+            <posX>265</posX>
+        </TextLang>
+    </vida>
+    <nitro>
+        <TextLang>
+            <texto>This item fills 13.5% of the nitro bottle</texto>
+            <posX>265</posX>
+        </TextLang>
+    </nitro>
+    <sNitro>
+        <TextLang>
+            <texto>This item fills 35% of the nitro bottle</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>WARNING: The nitro bottle is capable of producing nitro automatically, but it certainly takes</texto>
+            <posX>265</posX>
+        </TextLang>
+    </sNitro>
+    <invisibilidade>
+        <TextLang>
+            <texto>With this item you are invisible for almost 3 seconds, your enemies will not see you</texto>
+            <posX>265</posX>
+        </TextLang>
+    </invisibilidade>
+    <caixote>
+        <TextLang>
+            <texto>Crates can be broken by you and your enemies, but you'll lose speed and take damage</texto>
+            <posX>265</posX>
+        </TextLang>
+    </caixote>
+    <destruidos>
+        <TextLang>
+            <texto>These cars failed to escape and were destroyed, hitting them will do you damage and they could</texto>
+            <posX>265</posX>
+        </TextLang>
+        <TextLang>
+            <texto>eventually explode. Don't want to be close when this happens</texto>
+            <posX>265</posX>
+        </TextLang>
+    </destruidos>
+    <controlsWASD>
+        <TextLang>
+            <texto>You can control the car using the arrow keys, or the WASD keys</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsWASD>
+    <controlsShift>
+        <TextLang>
+            <texto>Press SHIFT to use Nitro, it will give you a nice boost</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsShift>
+    <controlsT>
+        <TextLang>
+            <texto>Press to change music during gameplay</texto>
+            <posX>190</posX>
+        </TextLang>
+    </controlsT>
+	<chegada>
+		<TextLang>
+			<texto>This is your destination in each level will be at least one area of this, but to release it you</texto>
+			<posX>255</posX>
+		</TextLang>
+		<TextLang>
+			<texto> need to fulfill a goal or simply find it (endless mode)</texto>
+			<posX>255</posX>
+		</TextLang>
+	</chegada>
+	<basico>
+		<texto>BASIC</texto>
+		<posX>17</posX>
+	</basico>
+	<controles>
+		<texto>CONTROLS</texto>
+		<posX>26</posX>
+	</controles>
+	<itensAjuda>
+		<texto>HELP ITEMS</texto>
+		<posX>29</posX>
+	</itensAjuda>
+	<estruturas>
+		<texto>STRUCTURES</texto>
+		<posX>33</posX>
+	</estruturas>
+	<objetos>
+		<texto>OBJECTS</texto>
+		<posX>22</posX>
+	</objetos>
+</tutoIdiomaArq>

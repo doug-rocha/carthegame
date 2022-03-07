@@ -1,0 +1,147 @@
+<idiomaArq>
+	<lingua>Português (BR)</lingua>
+	<id>0</id>
+	<tutoFile>pt_br0</tutoFile>
+	<credFile>pt_br1</credFile>
+	<carregando>
+		<texto>CARREGANDO...</texto>
+		<posX>57</posX>
+	</carregando>
+	<salvarOpSpc>
+		<texto>Pressione ESPAÇO para salvar</texto>
+	</salvarOpSpc>
+	<iniciar>
+		<texto>Iniciar</texto>
+		<posX>23</posX>
+	</iniciar>
+	<creditos>
+		<texto>Créditos</texto>
+		<posX>108</posX>
+	</creditos>
+	<opcoes>
+		<texto>Opções</texto>
+		<posX>44</posX>
+	</opcoes>
+	<sair>
+		<texto>Sair</texto>
+		<posX>132</posX>
+	</sair>
+	<nivel>
+		<texto>Nível: </texto>
+		<posX>244</posX>
+	</nivel>
+	<inimigos>
+		<texto>Inimigos: </texto>
+		<posX>150</posX>
+	</inimigos>
+	<pause>
+		<texto>Pausa</texto>
+		<posX>43</posX>
+	</pause>
+	<continuar>
+		<texto>Continuar</texto>
+		<posX>54</posX>
+	</continuar>
+	<voltarMenu>
+		<texto>Voltar ao Menu</texto>
+		<posX>80</posX>
+	</voltarMenu>
+	<idioma>
+		<texto>IDIOMA</texto>
+		<posX>20</posX>
+	</idioma>
+	<danoTotal>
+		<texto>Seu carro foi totalmente danificado!</texto>
+		<posX>130</posX>
+	</danoTotal>
+	<atraveParede>
+		<texto>Não sei como quase conseguiu, mas você tentou atravessar a parede com seu carro!</texto>
+		<posX>275</posX>
+	</atraveParede>
+	<nivel2>
+		<texto>        Nível: </texto>
+		<posX>83</posX>
+	</nivel2>
+	<novoJogo>
+		<texto>Novo Jogo</texto>
+		<posX>42</posX>
+	</novoJogo>
+	<loadJogo>
+		<texto>Carregar Jogo</texto>
+		<posX>55</posX>
+	</loadJogo>
+	<nao>
+		<texto>Não</texto>
+		<posX>17</posX>
+	</nao>
+	<sim>
+		<texto>Sim</texto>
+		<posX>16</posX>
+	</sim>
+	<trilhaSom>
+		<texto>NCEPT's TrackX</texto>
+		<posX>41</posX>
+	</trilhaSom>
+	<salvarJogo>
+		<texto>Salvar Jogo</texto>
+		<posX>63</posX>
+	</salvarJogo>
+	<jogoOp>
+		<texto>Opções de Jogo</texto>
+		<posX>80</posX>
+	</jogoOp>
+	<ja>
+		<texto>Já!</texto>
+	</ja>
+	<Save>
+		<TextLang>
+			<texto>Salvando...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Salvo!</texto>
+		</TextLang>
+	</Save>
+	<lvlApresenta>
+		<TextLang>
+			<texto>Iniciando Partida...</texto>
+		</TextLang>
+		<TextLang>
+			<texto>Continuando Partida...</texto>
+		</TextLang>
+	</lvlApresenta>
+	<ativado>
+		<TextLang>
+			<texto>DESATIVADO</texto>
+		</TextLang>
+		<TextLang>
+			<texto>ATIVADO</texto>
+		</TextLang>
+	</ativado>
+	<opTela>
+		<TextLang>
+			<texto>TELA E GRÁFICOS</texto>
+			<posX>50</posX>
+		</TextLang>
+		<TextLang>
+			<texto>RESOLUÇÃO</texto>
+		</TextLang>
+		<TextLang>
+			<texto>TELA CHEIA</texto>
+		</TextLang>
+		<TextLang>
+			<texto>QPS (FPS)</texto>
+		</TextLang>
+		<TextLang>
+			<texto>ANTIALIASING</texto>
+		</TextLang>
+		<TextLang>
+			<texto>OPÇÕES</texto>
+		</TextLang>
+	</opTela>
+	<volume>
+		<texto>VOLUME</texto>
+	</volume>
+	<warningMusica>
+		<texto>AS MÚSICAS DO MENU NÃO PODEM SER ALTERADAS</texto>
+	</warningMusica>
+</idiomaArq>
