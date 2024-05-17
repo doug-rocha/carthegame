@@ -14,3 +14,5 @@ Use some resources from [NonaCept Games Library](https://github.com/doug-rocha/n
 - [xpp3](https://github.com/codelibs/xpp3);
 - [Enigma](https://github.com/Sciumo/Enigma);
 - of course [NonaCept Game Library](https://github.com/doug-rocha/nonacept_games_library);
+
+### WILL BE COMPLETELY REWRITE, POSSIBLY
